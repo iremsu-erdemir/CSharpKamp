@@ -1,0 +1,13 @@
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\bin\Debug\netcoreapp3.1\07_ForeachLoops.exe
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\bin\Debug\netcoreapp3.1\07_ForeachLoops.deps.json
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\bin\Debug\netcoreapp3.1\07_ForeachLoops.runtimeconfig.json
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\bin\Debug\netcoreapp3.1\07_ForeachLoops.runtimeconfig.dev.json
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\bin\Debug\netcoreapp3.1\07_ForeachLoops.dll
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\bin\Debug\netcoreapp3.1\07_ForeachLoops.pdb
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.AssemblyInfoInputs.cache
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.AssemblyInfo.cs
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.dll
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.pdb
+C:\Users\erdem\OneDrive\Desktop\İrem Su ERDEMİR\C#\07_ForeachLoops\07_ForeachLoops\07_ForeachLoops\obj\Debug\netcoreapp3.1\07_ForeachLoops.genruntimeconfig.cache
